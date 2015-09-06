@@ -1,0 +1,7 @@
+c:\users\ralph the doge\documents\visual studio 2010\Projects\hashcrackr\hashcrackr\bin\Release\hashcrackr.exe
+c:\users\ralph the doge\documents\visual studio 2010\Projects\hashcrackr\hashcrackr\bin\Release\hashcrackr.pdb
+c:\users\ralph the doge\documents\visual studio 2010\Projects\hashcrackr\hashcrackr\obj\x86\Release\hashcrackr.Form1.resources
+c:\users\ralph the doge\documents\visual studio 2010\Projects\hashcrackr\hashcrackr\obj\x86\Release\hashcrackr.Properties.Resources.resources
+c:\users\ralph the doge\documents\visual studio 2010\Projects\hashcrackr\hashcrackr\obj\x86\Release\hashcrackr.csproj.GenerateResource.Cache
+c:\users\ralph the doge\documents\visual studio 2010\Projects\hashcrackr\hashcrackr\obj\x86\Release\hashcrackr.exe
+c:\users\ralph the doge\documents\visual studio 2010\Projects\hashcrackr\hashcrackr\obj\x86\Release\hashcrackr.pdb
